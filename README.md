@@ -44,7 +44,10 @@
 <div align=center><img src="https://img-blog.csdnimg.cn/1f958ebfa28d44c799af6113f7f33bf1.gif#pic_center"></div>
 <br />
 
-#### &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;  在这里可以修改个人资料，包括姓名和联系电话等。
+#### &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;  在这个界面，登录后可以查看或者修改个人资料，包括姓名和联系电话等
+#### &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;  如果您在使用小程序的过程中遇到任何问题，可以点击意见反馈，直接跳转到微信小程序官方的反馈页面
+#### &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;  再往下是关于我们，可以看到这个小程序是由我和队友共同开发的
+#### &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;  最后一个商家管理，暂时想不到要放些什么东西。
 
 <br />
 
@@ -52,4 +55,4 @@
 
 &ensp;&ensp;    *以上出现的轮播图、店铺列表、美食推荐等，是通过连接微信开发者工具与微信云开发的自建数据库，并由各界面的js文件读取数据库中的内容呈现的。*
 
-&ensp;&ensp;    *如果您在使用小程序的过程中遇到任何问题，可以进行意见反馈。我们开发人员将竭诚为您服务！*
+&ensp;&ensp;    *以上就是我们项目的全部内容，感谢观看到这里！*
